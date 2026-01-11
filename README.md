@@ -1,4 +1,4 @@
-## GenAi_Q&A_system (using-rag)
+# GenAi_Q&A_system (using-rag)
 
 • Developed a Retrieval-Augmented Generation (RAG) system for intelligent document question answering.
 
@@ -9,7 +9,7 @@
 • Deployed a ChatOpenAI model with LangChain’s prompt templates for grounded response synthesis.
 
 
-# Install dependencies
+## Install dependencies
 
 1. Do the following before installing the dependencies found in `requirements.txt` file because of current challenges installing `onnxruntime` through `pip install onnxruntime`. 
 
