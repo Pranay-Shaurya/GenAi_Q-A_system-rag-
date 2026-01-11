@@ -1,8 +1,11 @@
 ## GenAi_Q&A_system (using-rag)
 
 • Developed a Retrieval-Augmented Generation (RAG) system for intelligent document question answering.
+
 • Designed a data pipeline to load, chunk (1000 chars), and embed text into ChromaDB vector store.
+
 • Retrieved top K=3 most relevant chunks using cosine similarity for precise context generation.
+
 • Deployed a ChatOpenAI model with LangChain’s prompt templates for grounded response synthesis.
 
 
